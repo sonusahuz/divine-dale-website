@@ -67,7 +67,7 @@
     border-radius: 0px;
   }
   .desc {
-    margin-left: 63px;
+    margin-left: 60px;
     color: white;
     font-size: 14px;
     font-weight: 300;
@@ -80,7 +80,6 @@
   }
   .btn3 a {
     text-transform: capitalize;
-
     display: inline-block;
     border: 0;
     width: 300px;
