@@ -1,0 +1,317 @@
+@media (max-width: 700px) {
+  .slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+  }
+  .mySlides img {
+    object-fit: cover;
+    width: 100%;
+    /* margin-top: 61px; */
+  }
+  .box2 {
+    display: none;
+  }
+  .box2 {
+    display: none;
+  }
+  .box4 {
+    display: none;
+  }
+  #hidden {
+    display: none;
+  }
+  .navmiddle nav ul li a {
+    display: none;
+  }
+  .navbar {
+    padding: 5px 20px;
+  }
+  .btn a {
+    display: none;
+  }
+  .mySlides img {
+    object-fit: cover;
+    width: 100%;
+    height: 160px;
+    box-shadow: var(--box-shadow);
+  }
+  h1 {
+    text-align: center;
+    text-transform: capitalize;
+    color: #333;
+    font-size: 30px;
+    margin-top: 20px;
+  }
+  .btn2 a {
+    padding: 10px 14px;
+    text-transform: capitalize;
+    color: white;
+    display: inline-block;
+    border: 0;
+    border-radius: 2px;
+    box-shadow: var(--box-shadow);
+    background-color: var(--btn-color);
+    margin: 10px 15px;
+    font-size: 13px;
+  }
+  hr {
+    display: none;
+  }
+  .top {
+    margin-top: 20px;
+    font-size: 30px;
+  }
+  .boxx img {
+    width: 315px;
+    border-radius: 0px;
+  }
+  .desc {
+    margin-left: 65px;
+    color: white;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 0px 0px;
+    text-align: left;
+  }
+
+  .boxx h1 {
+    font-size: 14px;
+  }
+  .btn3 a {
+    text-transform: capitalize;
+
+    display: inline-block;
+    border: 0;
+    width: 300px;
+    text-align: center;
+    font-size: 14px;
+    background-color: white;
+
+    color: black;
+    padding: 10px;
+    border-radius: 2px;
+    box-shadow: var(--box-shadow);
+  }
+  .form-right {
+    margin-top: 50px;
+  }
+  .contact {
+    background-color: var(--btn-color);
+    height: 840px;
+    width: 100%;
+  }
+  /* slide section end  */
+  /* max-width */
+  .icon ion-icon {
+    text-align: left;
+    color: white;
+    font-size: 25px;
+  }
+  .icontext {
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    text-align: left;
+  }
+  .btn3 {
+    margin-top: 10px;
+  }
+  input {
+    padding: 10px;
+    max-width: 100%;
+    width: 300px;
+    border: 0;
+    margin: 10px 0px;
+    border-radius: 2px;
+  }
+  textarea {
+    margin: 10px 0px;
+    padding: 10px;
+    max-width: 100%;
+    width: 300px;
+    border: 0;
+    border-radius: 2px;
+  }
+  .icon {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+
+    margin-left: 30px;
+  }
+  .box h1 {
+    padding-top: 40px;
+  }
+  .btn3 {
+    margin-top: 30px;
+  }
+  head h1 {
+    font-weight: 600;
+    padding: 10px 0px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+  }
+  .head h1 {
+    font-weight: 600;
+    padding: 10px 0px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+  }
+  .navbar {
+    display: none;
+  }
+}
+
+@media (min-width: 700px) {
+  .slideshow-container {
+    /* max-width: 1000px; */
+    position: relative;
+    margin: auto;
+  }
+  .mySlides img {
+    object-fit: cover;
+    width: 100%;
+    height: 400px;
+  }
+  .mySlides img {
+    object-fit: cover;
+    width: 100%;
+    margin-top: 71px;
+  }
+  .navright ion-icon {
+    display: none;
+    margin-top: 6px;
+  }
+  .heading h1 {
+    margin-top: 30px;
+  }
+  hr {
+    transform: rotate(0deg);
+    height: 100px;
+    margin-top: 50px;
+  }
+  .home2 {
+    background-color: var(--btn-color);
+    height: 200px;
+    margin-top: 135px;
+  }
+  .box h1 {
+    color: white;
+    text-transform: capitalize;
+    font-size: 40px;
+    margin-top: 0px;
+  }
+  .flex-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .academics {
+    padding: 0px 60px;
+  }
+  .about,
+  .home2 {
+    padding: 0px 60px;
+  }
+  .flex-right img {
+    width: 450px;
+    padding: 0px 15px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+    border-radius: 2px;
+  }
+  .form-right {
+    margin-top: 20px;
+  }
+  .contact {
+    background-color: var(--btn-color);
+    height: 800px;
+    width: 100%;
+  }
+  /* slide section end  */
+  /* max-width */
+  .icon ion-icon {
+    text-align: left;
+    color: white;
+    margin-left: 35px;
+    font-size: 25px;
+  }
+  .icontext {
+    color: white;
+    font-size: 20px;
+
+    text-align: left;
+  }
+  .btn3 {
+    margin-top: 10px;
+  }
+  input {
+    padding: 10px;
+    max-width: 100%;
+    width: 300px;
+    border: 0;
+    margin: 10px 0px;
+    border-radius: 2px;
+  }
+  textarea {
+    margin: 10px 0px;
+    padding: 10px;
+    max-width: 100%;
+    width: 300px;
+    border: 0;
+    border-radius: 2px;
+  }
+  .icon {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-left: 30px;
+  }
+  .box h1 {
+    padding-top: 40px;
+  }
+  .btn3 {
+    margin-top: 30px;
+  }
+  .desc {
+    margin-left: 100px;
+    color: white;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 0px 0px;
+    text-align: left;
+  }
+  .form-right {
+    margin-right: 80px;
+  }
+  .head h1 {
+    font-weight: 600;
+    padding: 20px 0px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+  }
+  .contact {
+    background-color: var(--btn-color);
+    height: 550px;
+    width: 100%;
+    margin-top: 50px;
+  }
+  #home {
+    display: block;
+  }
+  .topnav {
+    display: none;
+  }
+  .mySlides img {
+    object-fit: cover;
+    width: 100%;
+    margin-top: 70px;
+  }
+}
