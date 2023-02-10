@@ -105,12 +105,14 @@
   .icon ion-icon {
     text-align: left;
     color: white;
+    font-weight:400;
     font-size: 25px;
   }
   .icontext {
     color: white;
-    font-size: 20px;
+    font-size: 24px;
     margin-left: 10px;
+    font-weight:400;
     text-align: left;
   }
   .btn3 {
