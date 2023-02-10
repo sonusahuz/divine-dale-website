@@ -316,12 +316,11 @@ label {
   color: white;
   font-size: 14px;
 }
-.btn3 a {
+.btn3 button {
   text-transform: capitalize;
-
   display: inline-block;
   border: 0;
-  width: 300px;
+  width: 320px;
   text-align: center;
   font-size: 14px;
   background-color: white;
